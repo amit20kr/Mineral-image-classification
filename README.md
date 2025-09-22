@@ -1,4 +1,5 @@
 # Mineral image classification
- Classification using CNN
-Amit Kumar 
-This is my first Exploratory Project.
+Classification of 7 mineral classes using CNN
+Accurate mineral classification is essential for efficient mining operations, resource management, and sustainable extraction practices. This study employs Machine Learning & Deep Learning, specifically Convolutional Neural Networks (CNNs), to automate mineral classification, significantly enhancing accuracy and efficiency in geological assessments. A diverse dataset of high-resolution mineral images spanning seven mineral classes was used, with rigorous ML preprocessing steps, including feature scaling, categorical encoding, and image augmentation, to improve model performance.
+The CNN model achieved a reasonable accuracy, outperforming traditional classification methods. Feature extraction techniques such as the Convolutional and pooling layers were used to capture intricate mineralogical patterns. Rigorous training-validation testing ensured generalizability to real-world geological samples. Additionally, model interpretability techniques were applied to analyze feature importance, ensuring reliable decision-making.
+Explainable AI techniques were applied to interpret the classification decisions, ensuring model transparency. The proposed system reduces manual effort, enhances mining efficiency, and paves the way for real-time, AI-powered mineral identification in field applications, benefiting both geological research and industrial mining operations.
